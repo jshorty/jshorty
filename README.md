@@ -1,4 +1,3 @@
-<image align="left" src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/573061151/320" height=280>
 
 > The way a crow
   <br>Shook down on me
