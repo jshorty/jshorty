@@ -8,7 +8,7 @@
   <br>And saved some part
   <br>Of a day I had rued.
 
-  -_Dust of Snow_, Robert Frost
+  -"Dust of Snow", Robert Frost
 
 <img src="http://feathertrail.net/bago.gif" height=80 align="left">
 
